@@ -8,5 +8,5 @@ void print_msg(char *msg) {
 
 int main(int argc, char *argv[]) {
     print_msg("Hello World.");
-    return 0;
+      return 0;
 }
