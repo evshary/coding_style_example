@@ -25,3 +25,4 @@ rm -rf build
 # Reference
 
 * [uncrustify GitHub](https://github.com/uncrustify/uncrustify)
+* [代码格式化工具 uncrustify 配置文件选项详解](https://blog.csdn.net/whatday/article/details/91049852)
