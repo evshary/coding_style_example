@@ -9,9 +9,11 @@ cmake -Bbuild -H.
 cmake --build build
 ```
 
-# Coding Styles
+# Run coding style test
 
 ```bash
+cd build
+ctest -V
 ```
 
 # Clean
