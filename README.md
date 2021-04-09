@@ -16,6 +16,15 @@ cd build
 ctest -V
 ```
 
+# Run uncrustify directly
+
+```bash
+# check only
+uncrustify -c linux_c.cfg -l c test.c test.h --check
+# generate modified files
+uncrustify -c linux_c.cfg -l c test.c test.h 
+```
+
 # Clean
 
 ```bash
