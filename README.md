@@ -31,6 +31,14 @@ uncrustify -c linux_c.cfg -l c test.c test.h
 rm -rf build
 ```
 
+# Ignore coding style
+
+```c
+/* *INDENT-OFF* */
+// your ignore code here
+/* *INDENT-ON* */
+```
+
 # Reference
 
 * [uncrustify GitHub](https://github.com/uncrustify/uncrustify)
