@@ -4,6 +4,12 @@ This is the example of how to test the coding styles in cmake.
 
 We use coding style tool [uncrustify](https://github.com/uncrustify/uncrustify) here.
 
+# Install necessary packages
+
+```bash
+sudo apt install uncrustify
+```
+
 # Build
 
 ```bash
